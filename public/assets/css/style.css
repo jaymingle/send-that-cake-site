@@ -1,0 +1,21 @@
+.sliderclass{
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        background-color: #d4d1d1;
+        max-height: 400px;
+        overflow: hidden;
+}
+
+.slick-track{
+        display: flex !important;
+        align-items: center;
+}
+
+
+.store-resized{
+        /* max-width: 270px; */
+        min-width:  100%;
+        max-height: 180px;
+        
+}

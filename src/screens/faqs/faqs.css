@@ -1,0 +1,11 @@
+.panel-title{
+    color:#ff0000 !important;
+    font-weight: 500 !important;
+}
+.panel-body{
+    color:#000 !important;
+}
+
+.ws-m {
+    padding-bottom: 1px;
+}

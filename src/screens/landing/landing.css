@@ -1,0 +1,6 @@
+/* @import url('../../assets/front-end-css/style.css'); */
+@import url('/src/assets/styles/main.css')
+
+.gray-bg1{
+    background-color: #f5efef;
+}
